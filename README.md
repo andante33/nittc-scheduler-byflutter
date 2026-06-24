@@ -21,7 +21,7 @@ Android・iOSに対応しています<br>
 * Dart
 * VScode
 
-## Acknowledgements
+### Acknowledgements
 
 This project is a Flutter port inspired by the original NITTC Scheduler.<br>
 Developed with permission from the original author.
