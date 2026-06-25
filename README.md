@@ -1,17 +1,31 @@
-# flutter_application_1
+# NITTC-Scheduler by Flutter
 
-A new Flutter project.
+鶴岡工業高等専門学校、その他高専専用時間割・課題管理アプリ<br>
+Android・~~iOS~~に対応しています。<br>
+(Windows・Webは開発中です)
 
-## Getting Started
+## 概要
 
-This project is a starting point for a Flutter application.
+鶴岡工業高等専門学校専用時間割アプリは既に存在するが、WindowsやiOSでも使えるようにするため、「Flutter」というものを使用し、新たにアプリを作成した。<br>
 
-A few resources to get you started if this is your first Flutter project:
+## 機能
+* 時間割表示
+* 時間割と関連付けた課題・予定管理
+* A週B週表示切り替え
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 開発環境
+* Flutter
+* Dart
+* VScode
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 謝辞
+「NITTC-Scheduler」を参考にさせていただいています。<br>
+ありがとうごさいます。<br>
+
+### ライセンス
+MIT Licenseです<br>
+自由に改変していただいて大丈夫です
+
+## 更新履歴
+* **v1.0.0** (2026-06-26)
+ * ソースコード公開
