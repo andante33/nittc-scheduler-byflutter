@@ -1,7 +1,5 @@
 # nittc-scheduler-byflutter
 
-## **現在は開発中です**
-
 鶴岡工業高等専門学校専用時間割アプリ<br>
 Android・~~iOS~~に対応しています<br>
 (Windows・Web版は開発中)<br>
