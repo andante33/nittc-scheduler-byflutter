@@ -32,3 +32,7 @@ Developed with permission from the original author.
 ### ライセンス
 MIT Licenseです<br>
 改変しても結構です<br>
+
+## 更新履歴
+* **v1.0.0** (2026-06-25)
+　*初版リリース
