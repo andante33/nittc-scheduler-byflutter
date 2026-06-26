@@ -31,6 +31,7 @@ MIT Licenseです<br>
 <details>
 <summary>Androidの方はこちら</summary>
 
+
 1. Releaseをクリック
 2. .apkファイルをダウンロード
 3. ダウンロードしたファイルをタップしてインストール
@@ -41,6 +42,7 @@ MIT Licenseです<br>
 <details>
 <summary>iOSの方はこちら</summary>
 
+
 現在開発中です<br>
 もうしばらくお待ちください<br>
 
@@ -49,6 +51,7 @@ MIT Licenseです<br>
 <details>
 <summary>Windowsの方はこちら</summary>
 
+
 現在開発中です<br>
 もうしばらくお待ちください<br>
 
@@ -56,6 +59,7 @@ MIT Licenseです<br>
 
 <details>
 <summary>Webの方はこちら</summary>
+
 
 現在開発中です<br>
 もうしばらくお待ちください<br>
