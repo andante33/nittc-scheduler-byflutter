@@ -31,9 +31,9 @@ MIT Licenseです<br>
 <details>
 <summary>Androidの方はこちら</summary>
 
-1 Releaseをクリック
-2 .apkファイルをダウンロード
-3 ダウンロードしたファイルをタップしてインストール
+1. Releaseをクリック
+2. .apkファイルをダウンロード
+3. ダウンロードしたファイルをタップしてインストール
 
 </details>
 
