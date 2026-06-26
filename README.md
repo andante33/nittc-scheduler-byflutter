@@ -26,6 +26,44 @@ Android・~~iOS~~に対応しています。<br>
 MIT Licenseです<br>
 自由に改変していただいて大丈夫です
 
+## インストール方法
+
+<details>
+<summary>Androidの方はこちら</summary>
+
+1 Releaseをクリック
+2 .apkファイルをダウンロード
+3 ダウンロードしたファイルをタップしてインストール
+
+</details>
+
+<details>
+<summary>iOSの方はこちら</summary>
+
+現在開発中です<br>
+もうしばらくお待ちください<br>
+
+</details>
+
+<details>
+<summary>Windowsの方はこちら</summary>
+
+現在開発中です<br>
+もうしばらくお待ちください<br>
+
+</details>
+
+<details>
+<summary>Webの方はこちら</summary>
+
+現在開発中です<br>
+もうしばらくお待ちください<br>
+
+</details>
+
+
+
+
 ## 更新履歴
 * **v1.0.0** (2026-06-26)
   * ソースコード公開
