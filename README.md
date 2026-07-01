@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # nittc-scheduler-byflutter
 
 鶴岡工業高等専門学校専用時間割アプリ<br>
@@ -43,12 +24,25 @@ Android・~~iOS~~に対応しています<br>
 * Dart
 * VScode
 
-### Acknowledgements
+## 導入方法
 
-This project is a Flutter port inspired by the original NITTC Scheduler.<br>
-Developed with permission from the original author.
+<details>
+ <summary>Android版</summary>
 
-### ライセンス
+ 1. Releaseをタップ
+ 2. 最新バージョンの.apkファイルをダウンロード
+ 3. ダウンロードした.apkファイルをタップしてインストール
+
+</details>
+
+<details>
+ <summary>Web版</summary>
+
+ [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter/)
+ 
+</details>
+
+## ライセンス
 MIT Licenseです<br>
 改変しても結構です<br>
 
@@ -56,4 +50,9 @@ MIT Licenseです<br>
 
 * **v1.0.0** (2026-06-25)<br>
   * 初版リリース
->>>>>>> 504a36ba68dee8eccc1b190a21a3ff3355822a04
+* **v1.1.0** (2026-07-01)<br>
+  * Android版公開
+  * Web版公開
+  * UIの改善
+  * 細かなバグの改善
+  * 新規機能を追加
