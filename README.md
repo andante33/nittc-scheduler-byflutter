@@ -1,8 +1,8 @@
 # nittc-scheduler-byflutter
 
 鶴岡工業高等専門学校専用時間割アプリ<br>
-Android・~~iOS~~に対応しています<br>
-(Windows・Web版は開発中)<br>
+Android・iOS・Webに対応しています<br>
+(Windows版は開発中)<br>
 
 ## 概要
 既に鶴岡工業高等専門学校専用の時間割アプリは存在しているが、iOSには対応していないことから本アプリを開発した<br>
@@ -36,6 +36,17 @@ Android・~~iOS~~に対応しています<br>
 </details>
 
 <details>
+ <summary>iOS版</summary>
+
+ 1. [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter)
+ 2. Safariを使用して開く
+ 3. 画面下部にある「**共有**」アイコンをタップする
+ 4. メニューを下にスクロールし、「**ホーム画面に追加**」をタップする
+ 5. 右上の「**追加**」をタップする
+
+</details>
+
+<details>
  <summary>Web版</summary>
 
  [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter/)
@@ -53,6 +64,7 @@ MIT Licenseです<br>
 * **v1.1.0** (2026-07-01)<br>
   * Android版公開
   * Web版公開
+  * iOSに対応(Web版の延長)
   * UIの改善
   * 細かなバグの改善
   * 新規機能を追加
