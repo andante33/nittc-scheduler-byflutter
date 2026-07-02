@@ -1,27 +1,10 @@
-<<<<<<< HEAD
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # nittc-scheduler-byflutter
 
 鶴岡工業高等専門学校専用時間割アプリ<br>
-Android・~~iOS~~に対応しています<br>
-(Windows・Web版は開発中)<br>
+Android・iOS・Webに対応しています<br>
+(Windows版は開発中)<br>
+
+### 現在は、Android・iOSともにWeb版の使用をおすすめしています<br>
 
 ## 概要
 既に鶴岡工業高等専門学校専用の時間割アプリは存在しているが、iOSには対応していないことから本アプリを開発した<br>
@@ -43,17 +26,76 @@ Android・~~iOS~~に対応しています<br>
 * Dart
 * VScode
 
-### Acknowledgements
+## 導入方法
 
-This project is a Flutter port inspired by the original NITTC Scheduler.<br>
-Developed with permission from the original author.
+<details>
+ <summary>Android版</summary>
 
-### ライセンス
+* apkファイルをダウンロードする場合<br>
+
+ 1. Releaseをタップ
+ 2. 最新バージョンの.apkファイルをダウンロード
+ 3. ダウンロードした.apkファイルをタップしてインストール
+
+* Webからインストールする場合
+ 1. [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter)
+ 2. GoogleChromeで開き、右上の3つの点をタップ
+ 3. 「**ダウンロード**」をタップ
+ 4. 「**アプリをインストール**」をタップ
+
+</details>
+
+<details>
+ <summary>iOS版</summary>
+
+ 1. [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter)
+ 2. Safariを使用して開く
+ 3. 画面下部にある「**共有**」アイコンをタップする
+ 4. メニューを下にスクロールし、「**ホーム画面に追加**」をタップする
+ 5. 右上の「**追加**」をタップする
+
+**注** 初期起動には少し時間がかかります
+
+</details>
+
+<details>
+ <summary>Web版</summary>
+
+ [こちらをタップ](https://andante33.github.io/nittc-scheduler-byflutter/)
+ 
+</details>
+
+## ライセンス
 MIT Licenseです<br>
 改変しても結構です<br>
+
+## 動作環境済
+
+* GooglePixel9a
+* iPhone 17 Pro
+
+**注** iPhoneでは、通知が送信されません
 
 ## 更新履歴
 
 * **v1.0.0** (2026-06-25)<br>
   * 初版リリース
->>>>>>> 504a36ba68dee8eccc1b190a21a3ff3355822a04
+* **v1.1.0** (2026-07-01)<br>
+  * Android版公開
+  * Web版公開
+  * iOSに対応(Web版の延長)
+  * UIの改善
+* **v1.1.1** (2026-07-02)<br>
+  * web版の改善
+    * ローディング画面の追加
+    * 違う曜日に違う曜日の授業の時間割を表示させるようにした
+    * フォントの改善
+    * その他新規機能の追加
+    * 細かなバグの改善
+* **v1.1.2** (2026-07-02)<br>
+  * web版の高速化
+  * フォントの変更
+  * 設定機能を追加
+  * 細かなバグの改善
+  * 細かなバグの改善
+  * 新規機能を追加
