@@ -4,6 +4,8 @@
 Android・iOS・Webに対応しています<br>
 (Windows版は開発中)<br>
 
+**注** iOS版は、Web版と同じ機能になります。また、通知機能は使えません<br>
+
 ### 現在は、Android・iOSともにWeb版の使用をおすすめしています<br>
 
 ## 概要
